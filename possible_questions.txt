@@ -1,0 +1,26 @@
+What is going on? goingon going
+What is happenning? happenning
+Who is there? isthere
+What is there? isthere
+What is the dog doing? doing dogdo
+What the dog does? dogdoe
+What is dog doing? doing dogdo
+Where the dog laying? laying doglay
+What is with the dog? withdog
+What is with dog? withdog
+What the dog has? dogha
+What the dog have? doghave
+What the dog had? doghad
+Where is dog? whereisdog
+How many dogs are there? dogcount
+How many dog are there? dogcount
+What is the count of dog? dogcount
+What is the count of dogs? dogcount
+Where is the dog? whereisdog
+Where are dog?
+Where are dogs?
+Where are the dogs?
+
+What is in the mouth? mouth
+What does the dog has in its mouth? mouth
+Where is the frisbee? frisbee
